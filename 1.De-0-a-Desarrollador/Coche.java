@@ -1,3 +1,4 @@
+//Primera parte del Codigo//
 public class Coche{
     private int numPuertas;
 
@@ -13,6 +14,13 @@ public class Coche{
         return this.numPuertas;
     }
 }
+
+
+
+
+
+
+//Segunda Parte del codigo//
 public class MiCoche {
     public static void main(String[] args) {
         Coche miCoche = new Coche();
